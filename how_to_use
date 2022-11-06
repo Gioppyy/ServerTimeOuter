@@ -1,0 +1,2 @@
+open "plugins" folder in server's folders, put the plugin here and stop the server.
+From the moment the server starts, every day at 6.00 am the server will be shut down
