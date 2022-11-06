@@ -1,0 +1,5 @@
+name: ServerTimeOuter
+version: 'final'
+main: it.giopanno.ServerTimeOuter
+api-version: 1.18
+authors: [ Giopanno ]
